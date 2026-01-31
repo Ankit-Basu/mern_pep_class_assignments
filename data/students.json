@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Ankit",
+    "email": "ankit@example.com",
+    "course": "Computer Science"
+  },
+  {
+    "id": "2",
+    "name": "Srijani",
+    "email": "srijani@example.com",
+    "course": "Information Technology"
+  },
+  {
+    "id": "3",
+    "name": "Ankan",
+    "email": "ankan@example.com",
+    "course": "Data Science"
+  },
+  {
+    "id": "4",
+    "name": "Sayandip",
+    "email": "sayandip@example.com",
+    "course": "Electronics"
+  },
+  {
+    "id": "5",
+    "name": "Rahul",
+    "email": "rahul@example.com",
+    "course": "Mechanical Engineering"
+  }
+]
